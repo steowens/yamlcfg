@@ -1,0 +1,21 @@
+rootstring: this is a string
+rootint: 23466
+rootfloat: 234.66
+rootbool: false
+rootarray:
+   - Thing1
+   - Thing2
+   - Thing3
+rootobj:
+  subobj1:
+    aString: this is a string
+    anInt: 23466
+    aFloat: 234.66
+    aBool: true
+    tfTrue: "true"
+    tfFalse: "false"
+  subarray1:
+    - 23
+    - 46
+    - 6
+      
